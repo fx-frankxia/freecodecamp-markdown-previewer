@@ -74,6 +74,48 @@ body {
   padding: 20px;
 }
 
+/*Preview content CSS*/
+#preview h1 {
+  border-bottom: 2px solid black;
+}
+
+#preview h2 {
+  border-bottom: 1px solid black;
+}
+
+#preview code,pre {
+  background-color: whitesmoke;
+}
+
+#preview blockquote {
+  border-left: 2px solid darkolivegreen;
+  color: darkolivegreen;
+  font-weight: 600;
+  padding-left: 1em;
+}
+
+#preview table,th,td{
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+#preview th {
+  padding:0.2em 0.5em;
+}
+
+#preview td {
+  padding: 0.2em;
+}
+
+#preview img {
+  width: 80%;
+}
+
+
+
+
+
+
 
 
 
